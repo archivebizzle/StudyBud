@@ -6,8 +6,9 @@
 
 ### Cloning the repository
 
+
 --> Clone the repository using the command below :
-```bash
+``bash
 git clone https://github.com/archivebizzle/StudyBud
 
 ```
